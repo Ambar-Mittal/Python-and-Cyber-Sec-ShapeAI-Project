@@ -1,0 +1,7 @@
+-------------------------------------------------------------
+Weather Stats for - INDORE  || 23 Jun 2021 | 08:26:09 PM
+-------------------------------------------------------------
+Current temperature is: 24.31 deg C
+('Current weather desc  :', 'moderate rain')
+('Current Humidity      :', 88, '%')
+('Current wind speed    :', 5.59, 'kmph')
